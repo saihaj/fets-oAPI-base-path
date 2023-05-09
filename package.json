@@ -1,0 +1,12 @@
+{
+  "name": "fets-openapi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "Saihajpreet Singh <saihajpreet.singh@gmail.com> (https://saihaj.dev/)",
+  "license": "MIT",
+  "dependencies": {
+    "fets": "^0.1.4"
+  }
+}
